@@ -6,7 +6,7 @@ import javax.persistence.Id;
 
 import lombok.Data;
 
-//Sunil Ingole means Golya
+//Sunil Ingole 
 @Entity
 @Data
 public class Employee {
